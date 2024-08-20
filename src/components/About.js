@@ -43,8 +43,8 @@ export default function About() {
     <>
       <Help />
       <Link
-        to="https://github.com/RileyC9/EasyGrammar"
-        title="https://github.com/RileyC9/EasyGrammar"
+        to="https://github.com/Peng-Yujie/EasyGrammar"
+        title="https://github.com/Peng-Yujie/EasyGrammar"
         className="btn-primary w-64 h-12 flex items-center justify-center mt-12 mx-auto"
       >
         <FaGithub className="mr-2 h-6 w-6" />

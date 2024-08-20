@@ -1,10 +1,10 @@
 export default function Contact() {
   const handleContact = () => {
     if (typeof window !== "undefined") {
-      window.open("mailto:easygrammar193@gmail.com");
+      window.open("https://www.linkedin.com/in/yujie-peng-8276b1279/");
     } else {
       console.log(
-        "Please contact us by sending an email to easygrammar193@gmail.com"
+        "Please contact me via LinkedIn: https://www.linkedin.com/in/yujie-peng-8276b1279/"
       );
     }
   };

@@ -4,13 +4,11 @@
 
 Our project aims to develop an application that will assist users in improving their English language skills. This project is developed using **React**, **Free Dictionary API** and **OpenAI API**.
 
-<!--  The README should also include a link to the public URL, project demo, reports, presentations and any other relevant information. -->
-
-[**Visit the Website**](https://easygrammar.netlify.app/) | [**Project Demo Video**](https://drive.google.com/file/d/1BGwYyWy6-Ay4LPMKNaLGZ9Xeqsm9he0E/view?usp=drive_link) | [**Project Report**](https://docs.google.com/document/d/1XhQ-kXFoNVW9rrmTBhKYQwvTLdIz18xYKvOCXiW-q-A/edit?usp=sharing)
+[**Visit the Website**](https://easygrammarapp.netlify.app/) | [**Project Demo Video**](https://drive.google.com/file/d/1BGwYyWy6-Ay4LPMKNaLGZ9Xeqsm9he0E/view?usp=drive_link) | [**Project Report**](https://docs.google.com/document/d/1XhQ-kXFoNVW9rrmTBhKYQwvTLdIz18xYKvOCXiW-q-A/edit?usp=sharing)
 
 ---
 
-![Easy Grammar](./src/img/homepage.png)
+![Easy Grammar](./docs/images/homepage.png)
 
 ---
 
@@ -45,15 +43,6 @@ Our objective is to create a website having the ability to help people who want 
 - TailwindCSS
 - Netlify
 
-## 💬 AI Declaration forms
-
-| Name             | Milestone #1                                                                            | Milestone #2                                                                        |
-| ---------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| TingHin Cheung   | [AI Declaration 1](./AIDeclarationForms/p1_AI_declaration_TingHin_Cheung_100396747.pdf) | [AI Declaration 2](./AIDeclarationForms/P2_AI_Declaration_TingHin_Cheung_100396747.pdf)|
-| Yujie Peng       | [AI Declaration 1](./AIDeclarationForms/p1_AI_Declaration_Yujie_Peng_100407970.pdf)     | [AI Declaration 2](./AIDeclarationForms/p2_AI_Declaration_Yujie_Peng_100407970.pdf) |
-| Ravinesh Sami    | [AI Declaration 1](./AIDeclarationForms/p1_AI_Declaration_Ravinesh_Sami_100399749.pdf)  |  [AI Declaration 2](./AIDeclarationForms/P2_AI_Declaration_Ravinesh_Sami_100399749.pdf)                                                                                   |
-| Xavier Pardanaud | [AI Declaration 1](AIDeclarationForms/P1_AI_Declaration_Xavier_Pardanaud_100309633.pdf) | [AI Declaration 2](AIDeclarationForms/P2_AI_Declaration_Xavier_Pardanaud_100309633.pdf)|
-
 ## 💻 How to start our React website locally
 
 All modern browsers should be able to support react website, expect Internet Exploere 11 or before (polyfills needed).
@@ -68,7 +57,7 @@ All modern browsers should be able to support react website, expect Internet Exp
 
 ### 1. Clone the repository to your local machine
 
-![Cloning repoitory](./githubReadmeSteps.png)
+![Cloning repoitory](./docs/images/githubReadmeSteps.png)
 
 ```bash
 git clone https://github.com/RileyC9/EasyGrammar.git

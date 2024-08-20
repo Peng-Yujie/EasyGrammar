@@ -5,7 +5,10 @@ export default function Footer() {
   const navLinks = [
     { href: "/home", label: "Home" },
     { href: "/about", label: "About" },
-    { href: "mailto:easygrammar193@gmail.com", label: "Contact" },
+    {
+      href: "https://www.linkedin.com/in/yujie-peng-8276b1279/",
+      label: "Contact",
+    },
   ];
   return (
     <>
